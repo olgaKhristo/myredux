@@ -3,7 +3,7 @@ npm start
 to play with redux do:
  npm install redux react-
  tutorial link:
- 
+ https://www.youtube.com/watch?v=CVpUuw9XSjY
 
 ## Available Scripts
 
